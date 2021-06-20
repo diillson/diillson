@@ -4,7 +4,7 @@
 
 ## Eu sou Edilson Freitas!, trabalho como DevOps na TATA CONSULTANCY SERVICES.
 - Expertise : DevOps | SRE | Software Engineer | Cloud Architect | Sysadmin | Infrastructure Engineer | Cyber Security
-- 
+
 Cientista da Computação;
 … Certificações:
 - 4Linux - Linux Professional Institute Certification. ⚡
