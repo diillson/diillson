@@ -2,7 +2,7 @@
 
 # Bem Vindo!
 
-## Me chamo Edilson Freitas e atuo como DevOps Engineer na TATA CONSULTANCY SERVICES.
+## e ae blza ?, atuo como DevOps Engineer na TATA CONSULTANCY SERVICES.
 - Expertise : DevOps | SRE | Software Engineer | Cloud Architect | Sysadmin | Infrastructure Engineer | Cyber Security
 
 Cientista da Computação;
