@@ -14,7 +14,6 @@ Cientista da Computação;
 - CertiProf - Scrum Foundation Professional Certificate. ⚡
 - CertiProf - DevOps Essentials Professional Certificate (DEPC). ⚡
 - CertiProf - Cyber Security Foundation - Professional Cerfiticate. ⚡
-- CertiProf - Cyber Security FOundation Professional Certificate. ⚡
 
 
 ## Contatos 
