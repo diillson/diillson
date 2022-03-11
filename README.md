@@ -2,8 +2,8 @@
 
 # Bem Vindo!
 
-## e ae blza ?, atuo como DevOps Engineer na Tata Consultancy Services.
-- Expertise : DevOps | SRE | Software Engineer | Cloud Architect | Sysadmin | Infrastructure Engineer | Cyber Security
+## e ae blza ?, atuo como SRE/DevOps Especialista na Zup Innovation https://www.zup.com.br/.
+- Expertise : | SRE/DevOps | Software Engineer | Cloud Architect | Sysadmin | Infrastructure Engineer | Cyber Security
 
 Cientista da Computação;
 … Certificações:
