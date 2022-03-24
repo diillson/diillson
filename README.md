@@ -1,6 +1,6 @@
 <img align="right" width="400" height="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/0047cf84779337.5d6796bdeaf6c.png">
 
-# Bem Vindo!
+# Bem Vindo(a)!
 
 ## e ae blza ?, atuo como SRE/DevOps Especialista na Zup Innovation https://www.zup.com.br/.
 - Expertise : | SRE/DevOps | Software Engineer | Cloud Architect | Sysadmin | Infrastructure Engineer | Cyber Security
