@@ -13,6 +13,7 @@ Cientista da Computação;
 - AWS Certified Developer - Associate. ⚡
 - AWS Certified Solutions Architect - Associate. ⚡
 - AWS Certified SysOps Administrator - Associate. ⚡
+- HashiCorp Certified - Terraform Associate (002). ⚡
 - CertiProf - Scrum Foundation Professional Certificate. ⚡
 - CertiProf - DevOps Essentials Professional Certificate (DEPC). ⚡
 - CertiProf - Cyber Security Foundation - Professional Cerfiticate. ⚡
