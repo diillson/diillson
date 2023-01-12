@@ -8,9 +8,11 @@
 Cientista da Computação;
 … Certificações:
 - 4Linux - LPIC(301-**2-**3) - Linux Professional Inst Cert. ⚡
-- AWS Certified DevOps Engineer Professional. ⚡
+- AWS Certified DevOps Engineer - Professional. ⚡
+- AWS Certified Cloud Practitioner - Foundation. ⚡
+- AWS Certified Developer - Associate. ⚡
 - AWS Certified Solutions Architect - Associate. ⚡
-- AWS Certified SysOps Administrator. ⚡
+- AWS Certified SysOps Administrator - Associate. ⚡
 - CertiProf - Scrum Foundation Professional Certificate. ⚡
 - CertiProf - DevOps Essentials Professional Certificate (DEPC). ⚡
 - CertiProf - Cyber Security Foundation - Professional Cerfiticate. ⚡
