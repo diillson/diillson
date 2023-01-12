@@ -25,6 +25,8 @@ Cientista da Computação;
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521982845072&text=Hello!)](https://api.whatsapp.com/send?phone=5521982845072&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diiilllson@gmail.com)](mailto:diiilllson@gmail.com)
 
+www.edilsonfreitas.com/about
+
 - Obrigado pela Visita ⚡. 
 
 - ✨ Aproveite!! o/ ✨
